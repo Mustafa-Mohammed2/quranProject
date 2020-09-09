@@ -18,9 +18,8 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a80f910-ce34-4ff2-857d-d0f03e474854" name="Default Changelist" comment="tool barmustafa">
+    <list default="true" id="1a80f910-ce34-4ff2-857d-d0f03e474854" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/quranproject/Log_in_Center.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/quranproject/Log_in_Center.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599642985948</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="tool bar and set support tool bar &#10;mustafa">
+      <created>1599643393605</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599643393605</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,7 +214,8 @@
     <MESSAGE value="mustafa mustafa mustafa" />
     <MESSAGE value="tool bar" />
     <MESSAGE value="tool barmustafa" />
-    <option name="LAST_COMMIT_MESSAGE" value="tool barmustafa" />
+    <MESSAGE value="tool bar and set support tool bar &#10;mustafa" />
+    <option name="LAST_COMMIT_MESSAGE" value="tool bar and set support tool bar &#10;mustafa" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Notifications" timestamp="1599640409584">
@@ -219,10 +226,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="119" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1599630831694" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1599643279538">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1599643390913">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599643279538" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599643390913" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599643303741">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -231,14 +238,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="540" y="257" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1599639982900" />
-    <state x="395" y="79" key="MultipleFileMergeDialog" timestamp="1599642866641">
+    <state x="129" y="55" key="MergeDialog" timestamp="1599643515421">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="395" y="79" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1599642866641" />
+    <state x="129" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1599643515421" />
+    <state x="395" y="79" key="MultipleFileMergeDialog" timestamp="1599643515450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="79" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1599643515450" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1599639416007">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599639416007" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599643400751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599643400751" />
     <state x="472" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599643050529">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
