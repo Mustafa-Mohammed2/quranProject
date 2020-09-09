@@ -19,6 +19,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a80f910-ce34-4ff2-857d-d0f03e474854" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -210,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599644097725</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="toolbarففففففففف">
+      <created>1599644431856</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599644431856</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -223,7 +231,8 @@
     <MESSAGE value="tool barmustafa" />
     <MESSAGE value="tool bar and set support tool bar &#10;mustafa" />
     <MESSAGE value="toolbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="toolbar" />
+    <MESSAGE value="toolbarففففففففف" />
+    <option name="LAST_COMMIT_MESSAGE" value="toolbarففففففففف" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Notifications" timestamp="1599640409584">
@@ -234,10 +243,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="119" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1599630831694" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1599644094992">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1599644429623">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599644094992" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599644429623" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599643303741">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -258,13 +267,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599639416007" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599643400751">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599644461630">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599643400751" />
-    <state x="472" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599644103965">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599644461630" />
+    <state x="472" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599646121704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="472" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1599644103965" />
+    <state x="472" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1599646121704" />
   </component>
 </project>
