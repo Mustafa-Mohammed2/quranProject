@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">quranProject</string>
+
+
+    <string name="log_In">Log In</string>
+    <string name="log_on_name">Name</string>
+    <string name="log_in_password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="or">OR</string>
+
+
+    <string name="sign_center_name_center">Name Center</string>
+    <string name="sign_center_phone_number">Phone Number</string>
+    <string name="sign_center_name_maneger">Name Maneger</string>
+    <string name="sign_center_email">Email</string>
+
+    <string name="sign_up_center">Sign up Center</string>
+    <string name="sign_up_tv_teatcher">Sign up Teatcher</string>
+    <string name="sign_teatcher_name_teach">Name Teatcher</string>
+    <string name="sign_teatcher_phone">Number Phone</string>
+    <string name="sign_teacher_name_ring">Name Ring</string>
+
+
+    <string name="sign_up_text">Sign up to Parent</string>
+    <string name="sign_up_name_student">Name Student</string>
+    <string name="sign_up_name_ring_record_in">Name Ring Record in</string>
+
+
+</resources>

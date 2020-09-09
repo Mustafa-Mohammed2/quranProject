@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".RegisterAs">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="قم بإنشاء حساب"
+        android:textColor="@color/colorPrimary"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/_40sdp"
+        android:textSize="@dimen/_33ssp"
+        android:textStyle="bold"
+        />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_60sdp"
+            android:id="@+id/RegAs_btn_QuranCenter"
+            android:textSize="@dimen/_25ssp"
+            android:layout_marginTop="@dimen/_60sdp"
+            android:layout_marginStart="@dimen/_30sdp"
+            android:layout_marginEnd="@dimen/_30sdp"
+            android:textColor="@android:color/white"
+            android:text="مركز التحفيظ"
+            android:textStyle="bold"
+            android:background="@drawable/btn_background"
+            android:textAlignment="center"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_60sdp"
+        android:id="@+id/RegAs_btn_Teacher"
+        android:textSize="@dimen/_25ssp"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_marginStart="@dimen/_30sdp"
+        android:layout_marginEnd="@dimen/_30sdp"
+        android:textColor="@android:color/white"
+        android:text="محفظ"
+        android:textStyle="bold"
+        android:background="@drawable/btn_background"
+        android:textAlignment="center"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_60sdp"
+        android:id="@+id/RegAs_btn_Guardian"
+        android:textSize="@dimen/_25ssp"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_marginStart="@dimen/_30sdp"
+        android:layout_marginEnd="@dimen/_30sdp"
+        android:textColor="@android:color/white"
+        android:text="ولي الأمر"
+        android:textStyle="bold"
+        android:background="@drawable/btn_background"
+        android:textAlignment="center"/>
+
+</LinearLayout>

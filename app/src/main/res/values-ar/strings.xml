@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">quranProject</string>
+
+    <string name="log_In">تسجيل الدخول</string>
+    <string name="log_on_name">الاسم</string>
+    <string name="log_in_password">كلمة المرور</string>
+    <string name="sign_up">إنشاء حساب جديد</string>
+    <string name="or">أو</string>
+
+
+    <string name="sign_center_name_center">اسم المركز</string>
+    <string name="sign_center_phone_number">رقم الهاتف</string>
+    <string name="sign_center_name_maneger">اسم مدير المركز</string>
+    <string name="sign_center_email">الايميل</string>
+
+
+
+    <string name="sign_up_center">إنشاء حساب مركز التحفيظ</string>
+    <string name="sign_up_tv_teatcher">إنشاء حساب المحفظ</string>
+    <string name="sign_teatcher_name_teach">اسم المحفظ</string>
+    <string name="sign_teatcher_phone">رقم الهاتف</string>
+    <string name="sign_teacher_name_ring">اسم الحلقة</string>
+
+
+    <string name="sign_up_text">إنشاء حساب ولي الأمر</string>
+    <string name="sign_up_name_student">اسم الطالب</string>
+    <string name="sign_up_name_ring_record_in">اسم الحلقة المسجل بها </string>
+
+</resources>

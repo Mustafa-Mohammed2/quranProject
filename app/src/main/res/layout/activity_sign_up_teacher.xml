@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sign_up_teacher"
+    android:orientation="vertical"
+
+    >
+
+    <TextView
+        android:id="@+id/sign_up_tv_teacher"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:text="@string/sign_up_tv_teatcher"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="@dimen/_30sdp"
+        android:textStyle="bold"
+        />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:errorTextColor="#2196F3"
+        android:layout_marginStart="@dimen/_30sdp"
+        android:layout_marginEnd="@dimen/_30sdp"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:textColorHint="@color/colorPrimary"
+
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/sign_teacher_name_teacher"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/sign_teatcher_name_teach"
+            android:background="@drawable/log_center_et_name"
+            android:gravity="center"
+            android:textSize="@dimen/_22sdp"
+            android:padding="@dimen/_10sdp"
+            />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:errorTextColor="#2196F3"
+        android:layout_marginStart="@dimen/_30sdp"
+        android:layout_marginEnd="@dimen/_30sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:textColorHint="@color/colorPrimary"
+
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/sign_teacher_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/sign_teatcher_phone"
+            android:inputType="phone"
+            android:background="@drawable/log_center_et_name"
+            android:gravity="center"
+            android:textSize="@dimen/_22sdp"
+            android:padding="@dimen/_10sdp"
+            />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:errorTextColor="#2196F3"
+        android:layout_marginStart="@dimen/_30sdp"
+        android:layout_marginEnd="@dimen/_30sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:textColorHint="@color/colorPrimary"
+
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/sign_teacher_name_maneger_teacher"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/sign_teacher_name_ring"
+            android:background="@drawable/log_center_et_name"
+            android:gravity="center"
+            android:textSize="@dimen/_22sdp"
+            android:padding="@dimen/_10sdp"
+            />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:errorTextColor="#2196F3"
+        android:layout_marginStart="@dimen/_30sdp"
+        android:layout_marginEnd="@dimen/_30sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:textColorHint="@color/colorPrimary"
+
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/sign_teacher_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/sign_center_email"
+            android:inputType="textEmailAddress"
+            android:background="@drawable/log_center_et_name"
+            android:gravity="center"
+            android:textSize="@dimen/_22sdp"
+            android:padding="@dimen/_10sdp"
+            />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_30sdp"
+        android:layout_marginEnd="@dimen/_30sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        app:errorTextColor="@color/colorPrimary"
+        app:passwordToggleEnabled="true"
+        app:passwordToggleTint="@color/colorPrimary"
+        android:textColorHint="@color/colorPrimary"
+
+
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/sign_teacher_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/log_in_password"
+            android:background="@drawable/log_center_et_name"
+            android:gravity="center"
+            android:textSize="@dimen/_22sdp"
+            android:padding="@dimen/_10sdp"
+            />
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <Button
+        android:id="@+id/sign_teacher_btn_sign"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_30sdp"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_marginEnd="@dimen/_30sdp"
+        android:background="@drawable/log_in_center_btn"
+        android:text="@string/sign_up"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:textSize="@dimen/_22sdp"
+
+        />
+</LinearLayout>
