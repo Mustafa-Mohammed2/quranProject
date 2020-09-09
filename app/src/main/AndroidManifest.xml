@@ -13,17 +13,23 @@
         <activity android:name=".Log_in_Center"></activity>
         <activity android:name=".Log_in_teacher"></activity>
         <activity android:name=".Log_in_student">
+
+
+        </activity>
+
+        <activity android:name=".Sign_up_Center">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".Sign_up_teacher">
 
         </activity>
+        <activity android:name=".Sign_up_student">
 
-        <activity android:name=".Sign_up_Center"></activity>
-        <activity android:name=".Sign_up_teacher"></activity>
-        <activity android:name=".Sign_up_student"></activity>
+        </activity>
 
         <activity android:name=".QuranCenter_Reg">
 
