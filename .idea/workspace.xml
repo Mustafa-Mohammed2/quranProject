@@ -18,8 +18,9 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a80f910-ce34-4ff2-857d-d0f03e474854" name="Default Changelist" comment="">
+    <list default="true" id="1a80f910-ce34-4ff2-857d-d0f03e474854" name="Default Changelist" comment="tool barmustafa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/quranproject/Log_in_Center.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/quranproject/Log_in_Center.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project_External_Data" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -189,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599642832668</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="tool barmustafa">
+      <created>1599642985948</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599642985948</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -199,7 +207,8 @@
     <MESSAGE value="sadasd" />
     <MESSAGE value="mustafa mustafa mustafa" />
     <MESSAGE value="tool bar" />
-    <option name="LAST_COMMIT_MESSAGE" value="tool bar" />
+    <MESSAGE value="tool barmustafa" />
+    <option name="LAST_COMMIT_MESSAGE" value="tool barmustafa" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Notifications" timestamp="1599640409584">
@@ -210,14 +219,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="119" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1599630831694" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1599642829129">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1599643279538">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599642829129" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599639106036">
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599643279538" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599643303741">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599639106036" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599643303741" />
     <state x="540" y="257" key="Github.ShareDialog" timestamp="1599639982900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -230,9 +239,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599639416007" />
-    <state x="472" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599642914383">
+    <state x="472" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599643050529">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="472" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1599642914383" />
+    <state x="472" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1599643050529" />
   </component>
 </project>

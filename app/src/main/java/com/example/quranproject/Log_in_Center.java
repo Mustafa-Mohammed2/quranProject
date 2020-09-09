@@ -17,5 +17,6 @@ public class Log_in_Center extends AppCompatActivity {
 
         btn=findViewById(R.id.log_center_btn_log);
         toolbar=findViewById(R.id.log_center_tool);
+        setSupportActionBar(toolbar);
     }
 }
